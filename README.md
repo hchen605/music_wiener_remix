@@ -7,9 +7,9 @@
 
 ## Concept
 
-<img src="https://github.com/hchen605/music_wiener_remix/blob/main/fig/remix.png" width="6000" height="450" />
+<img src="https://github.com/hchen605/music_wiener_remix/blob/main/fig/remix.png" width="6000" height="400" />
 
 
 ## Evaluation Result
 
-<img src="https://github.com/hchen605/music_wiener_remix/blob/main/fig/result.png" width="8000" height="500" />
+<img src="https://github.com/hchen605/music_wiener_remix/blob/main/fig/result.png" width="8000" height="400" />
